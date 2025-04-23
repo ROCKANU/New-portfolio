@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.78953915.css",
+    "main.js": "/portfolio/static/js/main.792eb67b.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/ivan-stern-LOLSb7m6XkU-unsplash.jpg": "/portfolio/static/media/ivan-stern-LOLSb7m6XkU-unsplash.6f4c7bc279b5dbc12997.jpg",
+    "static/media/bankingsytem.png": "/portfolio/static/media/bankingsytem.d1700e5a6140b58ac9fc.png",
+    "static/media/image.jpg": "/portfolio/static/media/image.f8d6fe273630f4cd4971.jpg",
+    "static/media/events.png": "/portfolio/static/media/events.628da3271b37f16a6a0c.png",
+    "static/media/chatbot.jpg": "/portfolio/static/media/chatbot.5841e41d92c138799672.jpg",
+    "static/media/airlineManagementsystem.jpg": "/portfolio/static/media/airlineManagementsystem.b4f7e48c432001c22b24.jpg",
+    "static/media/flowershop.jpg": "/portfolio/static/media/flowershop.710c89deb205b6e258b0.jpg",
+    "static/media/hospital.jpg": "/portfolio/static/media/hospital.088047c5e630c8408ecd.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.78953915.css.map": "/portfolio/static/css/main.78953915.css.map",
+    "main.792eb67b.js.map": "/portfolio/static/js/main.792eb67b.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78953915.css",
+    "static/js/main.792eb67b.js"
+  ]
+}
